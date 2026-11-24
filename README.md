@@ -1,68 +1,157 @@
-Hi, I'm Boyang Wan.
-Human–AI Interaction · Design · Engineering
 
-MSc(Eng) student at HKU, with a background in Industrial Design from SUSTech. Exploring how intelligent systems can improve human efficiency and user experience.
+<div align="center">
 
-Research Interests
-Human–AI Interaction
+# Boyang Wan
 
-AI Agents
+### Human–AI Interaction · Design · Engineering
 
-Human Agency
+MSc(Eng) Student at The University of Hong Kong  
+BEng in Industrial Design from SUSTech
 
-User Experience
+[Personal Portfolio](https://bruce666-ppp.github.io/Wan/) · [GitHub](https://github.com/Bruce666-ppp)
 
-Calm Technology
+</div>
 
-Interactive Systems
+---
 
+## About Me
 
+I am an interdisciplinary researcher and designer with a background spanning industrial design, engineering, artificial intelligence applications, and behavioural research.
 
-Selected Projects
+My research interests focus on translating advances in intelligent systems into meaningful improvements in human task efficiency and user experience while preserving human agency.
 
-AI-Powered Pet Healthcare Expert System
-AI application · Interaction design · System integrationView repository
+I enjoy understanding real user needs, developing interactive systems, and empirically evaluating how technology influences human behaviour and experience.
 
+## Research Interests
 
+- **Human–AI Interaction & Collaboration**
+- **AI Agents & Adaptive Autonomy**
+- **Human Agency & User Experience**
+- **Interaction Efficiency**
+- **Calm Technology & Intelligent Environments**
+- **Interactive Systems & Physical Computing**
 
-Cargo Commander
-Interactive simulation · Game design · Web developmentView repository
+---
 
+## Selected Projects
 
+### 01 | AI-Powered Pet Healthcare Expert System
 
-Calmpa
-Calm Technology · Physical computing · Human–Computer Interaction
+*Artificial Intelligence · Human–AI Interaction · System Integration*
 
+An AI-assisted expert system designed to provide accessible and structured preliminary pet healthcare information.
 
-Research & Technical Skills
-Research: User Research, Interviews, Usability Testing, Statistical Analysis
+- Interdisciplinary team coordination
+- Web interface and interaction design
+- AI application prototyping and system integration
 
-Development: Python, Arduino, AI Agent Prototyping
+[View Repository →](https://github.com/Bruce666-ppp/IDAT7215)
 
-Design: Figma, Rhino, SolidWorks, Interactive Prototyping
+### 02 | Cargo Commander
 
-Education
-The University of Hong Kong
+*Interactive Simulation · Game Design · Web Development*
 
-MSc(Eng) in Innovative Design and Technology
+An interactive STEM learning game that translates aircraft payload distribution, centre of gravity, and flight stability into six progressively challenging levels.
 
-Southern University of Science and Technology
+- Independent design and development
+- Interactive onboarding and real-time feedback
+- Progression mechanisms and performance visualisation
 
-BEng in Industrial Design
+[View Repository →](https://github.com/Bruce666-ppp/IDAT7220FinalGame)
 
-Portfolio · GitHub## Hi there 👋
+### 03 | Calmpa
 
-<!--
-**Bruce666-ppp/Bruce666-ppp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Calm Technology · Physical Computing · Human–Computer Interaction*
 
-Here are some ideas to get you started:
+A non-intrusive desktop break reminder that communicates prolonged desk presence through gradual physical movements.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Calm Technology principles
+- Arduino-based physical prototyping
+- Sensor integration and mechanical interaction
+- Functional prototype evaluation
+
+### 04 | PolyBand
+
+*Industrial Design · Engineering · Product Innovation*
+
+A three-in-one modular musical instrument system designed to make music performance more accessible to beginners.
+
+- User research and product development
+- Interdisciplinary design and engineering collaboration
+- Hardware and digital interaction integration
+- Granted design patent
+
+[Explore My Portfolio →](https://bruce666-ppp.github.io/Wan/)
+
+---
+
+## Research Experience
+
+| Research Area | Experience |
+| :--- | :--- |
+| **AI-Assisted VR** | Conducted two rounds of field research involving older adults, including interviews, behavioural observation, usability testing, and interaction iteration. |
+| **Behavioural Research** | Co-first-author journal publication on interpersonal relationships and psychological exhaustion, analysing 197 questionnaire responses using Welch’s ANOVA. |
+| **Intelligent Interaction** | Undergraduate research exploring non-intrusive interaction, physical computing, and Calm Technology. |
+
+## Professional Experience
+
+### TORRAS — Product Intern
+
+*AI-Assisted Product Research and Industry Intelligence*
+
+- Developed an AI-powered industry intelligence agent and automated reporting workflows.
+- Iterated the system through user feedback.
+- Reduced manual information-processing time by approximately **60%**.
+
+### UBTECH — Interaction Design Intern
+
+*AI Agent Interaction Design for Companion Robots*
+
+- Developed **5 conversational AI agent prototypes**.
+- Conducted **32 rounds of dialogue testing**.
+- Supported agent–robot integration and interaction refinement.
+
+---
+
+## Research & Technical Skills
+
+| Domain | Skills |
+| :--- | :--- |
+| **Research & Statistical Analysis** | Literature Review, Surveys, Interviews, Focus Groups, Behavioural Observation, Usability Testing, Welch’s ANOVA, Effect Size Analysis |
+| **AI & Application Development** | AI Agent Prototyping, Prompt Design, Workflow Automation, Python, AI-Assisted Web Development |
+| **HCI & UX Design** | User Journey Mapping, Information Architecture, Interaction Design, Interactive Prototyping, Figma |
+| **Physical Prototyping & Engineering** | Arduino, Sensor Integration, Servo Control, Rhino, SolidWorks, Fusion 360 |
+
+---
+
+## Education
+
+**The University of Hong Kong (HKU)**  
+MSc(Eng) in Innovative Design and Technology  
+2026–2027 (Expected)
+
+**Southern University of Science and Technology (SUSTech)**  
+BEng in Industrial Design  
+2022–2026 · Outstanding Graduate
+
+---
+
+## Selected Achievements
+
+- 3rd Place, AIX Origin Hackathon, 2026
+- Outstanding Graduate, SUSTech, 2026
+- Granted Design Patent — PolyBand, 2026
+- First Prize, University-Level Challenge Cup, 2025
+- First Prize, University-Level E-Commerce Innovation and Entrepreneurship Competition, 2025
+
+---
+
+<div align="center">
+
+### Connecting Design, Engineering, and Human Understanding
+
+Exploring how intelligent technology can better serve people.
+
+[Personal Portfolio](https://bruce666-ppp.github.io/Wan/) · [GitHub](https://github.com/Bruce666-ppp)
+
+</div>
