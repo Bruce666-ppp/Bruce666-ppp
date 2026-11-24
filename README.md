@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Boyang Wan
+# Wan
 
 ### Human–AI Interaction · Design · Engineering
 
